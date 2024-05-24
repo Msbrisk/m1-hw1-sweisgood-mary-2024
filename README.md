@@ -1,1 +1,4 @@
-# m1-hw1-sweisgood-mary-2024
+# My First Coding Assignment
+😊
+## About me
+I 
